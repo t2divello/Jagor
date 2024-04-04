@@ -530,7 +530,7 @@
 
    cursor: pointer;
    animation: glow 1s infinite;
-   background-color: rgba(198, 198, 198, 0.4);
+   background-color: rgba(0, 0, 0, 0.6);
     
   }
     @keyframes glow {
